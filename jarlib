@@ -1,0 +1,3 @@
+#!/bin/bash
+scalac inlib/ClazzParam.scala
+jar cf lib/clazzParamLib.jar inlib/*.class

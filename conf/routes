@@ -1,0 +1,5 @@
+GET     /   cont.Main.index()
+
+GET     /r   cont.Main.r()
+
+GET     /p   cont.Main.p()
